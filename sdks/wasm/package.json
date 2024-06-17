@@ -17,6 +17,6 @@
     "lite-server": "^2.5.3",
     "node": "lts",
     "npm": "^6.13.7",
-    "puppeteer": "^1.17.0"
+    "puppeteer": "^22.6.4"
   }
 }
